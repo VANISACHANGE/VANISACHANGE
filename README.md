@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VANISACHANGE
-- I'm now a ALX Student, this is my first repository as a full-stack engineer
 - 👀 I’m interested in tech,travel,music,writing n reading!
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on the above
